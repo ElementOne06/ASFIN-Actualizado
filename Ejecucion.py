@@ -1,4 +1,4 @@
 from Combinación import *
-from Temas.Interes_Compuesto import *
+from Interes_Compuesto import *
 
 Opciones_Intereses() 
